@@ -3,6 +3,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
+youtube_dl
 pyrogram==1.4.15
 requests
 tgcrypto
